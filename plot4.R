@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis by Roger D. Peng, Jeff Leek, Brian Caffo
-## Course Project 1 - plot3 creation
+## Course Project 1 - plot4 creation
 ## Course ID:  exdata-016
 ## Submitted by Chuck Thompson
 
